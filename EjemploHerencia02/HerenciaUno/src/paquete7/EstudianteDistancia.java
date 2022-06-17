@@ -57,7 +57,7 @@ public class EstudianteDistancia extends Estudiante{
                 + "Costo Asignatura: %.2f\n"
                 + "Número de Asignaturas: %d\n"
                 + "Total Matricula: %.2f\n",
-                nombresEstudiante,
+                obtenerNOmbresEstudiante(),
                 apellidosEstudiante,
                 identificacionEstudiante,
                 edadEstudiante,
